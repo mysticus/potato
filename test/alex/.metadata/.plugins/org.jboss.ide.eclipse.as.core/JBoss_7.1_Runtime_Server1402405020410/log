@@ -1,0 +1,34 @@
+!SESSION 2014-06-10 20:56:22.091 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-06-10 20:59:42.652
+!MESSAGE Module TestWebApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-06-10 20:59:43.927
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-06-10 20:59:49.441
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-06-10 21:00:08.419
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-06-10 21:00:08.492
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-06-10 21:04:22.788
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-06-10 21:04:23.997
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-06-10 21:06:31.546
+!MESSAGE 2 files modified in module TestWebApplication
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-06-10 21:24:51.473
+!MESSAGE 1 files modified in module TestWebApplication
