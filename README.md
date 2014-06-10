@@ -1,4 +1,4 @@
-potato
+README
 ======
 
 Project Potato
