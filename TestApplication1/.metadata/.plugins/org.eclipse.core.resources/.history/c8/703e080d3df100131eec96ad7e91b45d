@@ -34,9 +34,6 @@
 		</copy>
 	</target>
 	<target name="deployWAR">
-		<antcall target="init" />
-		<antcall target="clean" />
-		<antcall target="build" />
 		<antcall target="buildWAR" />
 		<antcall target="copyWAR" />
 	</target>
