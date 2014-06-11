@@ -32,3 +32,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.
 
 !ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-06-10 21:24:51.473
 !MESSAGE 1 files modified in module TestWebApplication
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-06-11 02:32:58.783
+!MESSAGE Server processes have been terminated.
